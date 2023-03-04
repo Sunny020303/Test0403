@@ -7,6 +7,8 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "new code\n";
+    int i = 10;
+    cout << "i=" << i;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
